@@ -1,2 +1,2 @@
 # hello-world
-hello
+hello hey its my first try at github
